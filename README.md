@@ -27,8 +27,8 @@ The first 4 concepts are part of the "run" part of "run until caught" developmen
 - Believable Ignorance
 - Creatively Leverage Definitions
 - Defer Process
-- Piggyback on Others
-
+- Piggyback Rides
+- 
 The 5th concept is all about the "caught" part of "run until caught" development.
 - Have a Plan for Being Caught
 
@@ -78,7 +78,7 @@ Sometimes deferring a process until another one can be undertaken at the same ti
 ##### Non-Production Working Prototypes
 Often processes are built around worst case scenarios. What's the worst that can happen with real data, real servers, real customers, real liability. Describing or otherwise keeping your project as a 'lab' project, prototype, test, development, experiment, or some other category can be an escape hatch excuses it from burdensome process until a later point in time. This often lets you get through more interations, failures, and learning cycles before that amount of work to earn each improvement also has 'process time' thrown in to the development time & cost arithmetic. Sometimes entire teams can be labled labs, be banned from deploying anything into production, and thereby move faster than anyone else.
 
-## Piggyback on Others
+## Piggyback Rides
 Piggybacking on established IT systems can be one of the fastest and most effective ways to get through process.
 
 ##### Existing IT Systems
