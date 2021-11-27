@@ -64,7 +64,9 @@ Closely related to The Jedi Mind Trick is the choose your own adventure method. 
 
 One example is you might rewrite your code into 200 lines of bash to avoid having to ask for permission to install a specific Python library that lets you do the same task in 2 lines of Python. Sure, it might take 2 hours more to to code, but it could save you 1 month in finding the right people to give you permissions, asking them, waiting for the once a month of quarter meeting on such things, a system administrator install that python library, you not having access to run python code yet on the server, etc. etc. Maybe you finally get those two lines of Python to run 7 weeks later when you could have just rewritten it in bash and got it done that day.
 
-#### Rules Do Not Apply
+#### "Rules, Where we're going, we don't yet have rules"
+Sectin header is a poorly executed reference to <a href="https://m.youtube.com/watch?v=pDX997uKTGg&pp=QAFIAQ%3D%3D">this movie line</a>
+
 In situations where process you don't want to deal with has lots of words to describe when it should be applied, you can choose to make the case that the rules do not apply. A more appealing way to phrase this might be that the "rules are not yet written" for your particular case. This is likely only the case when the definitions for when the process needs to be applied are written very narrowly in the first place. Sometimes, there can be 4 approved ways to do something for 4 different narrow situations. If you need to do something else that alls outside those 4 defined scenarios, maybe the rules haven't yet been written for your fifth scenario? Maybe you could figure things out for your situation and help suggest a process later for your new situation if asked?
 
 ## Defer Process
