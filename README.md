@@ -21,12 +21,15 @@ Like these other methods of development, 'Run Under Caught' is based on a series
 ----------------------
 
 ## Principles of 'Run Until Caught'
+There are five higher-order concepts within Run Until Caught development. 
 
-The five higher-order concepts are listed below. The first 4 are the "run" phase. The last is about being "caught". Hence, "Run Until Caught" development.
+The first 4 concepts are part of the "run" part of "run until caught" development.
 - Believable Ignorance
 - Creatively Leverage Definitions
 - Defer Process
 - Piggyback on Others
+
+The 5th concept is all about the "caught" part of "run until caught" development.
 - Have a Plan for Being Caught
 
 ## Believable Ignorances
