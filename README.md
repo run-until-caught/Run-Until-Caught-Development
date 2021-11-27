@@ -1,7 +1,3 @@
-# Run-Until-Caught-Development
-Run Until Caught Development is a newly written down development philosophy formalizing old ways of getting things done in large, process heavy organizations
-
-
 # Run Until Caught Development Manifesto
 ```Run Until Caught Development is a set of principles for moving faster than large company process normally would allow through strategic positioning of your work relative to burdensome internal processes.```
 
