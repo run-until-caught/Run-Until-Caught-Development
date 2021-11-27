@@ -2,7 +2,7 @@
 ```Run Until Caught Development is a set of principles for moving faster than large company process normally would allow through strategic positioning of your work relative to burdensome internal processes.```
 
 #### History of the Term
-"Run until caught" is a throw away phrase often used in jest. It is a way to refer to people who want to get things done, or at least further along, than is typical given the process rich environment they work within. Here we attempt to write down what might be included in a formal defintion of "Run Until Caught" development.
+"Run until caught" is a throw away phrase often used in jest. It is a way to refer to people who want to get things done, or at least further along, than is typical given the process rich environment they work within and are willing and capable of safely bending the rules a little. Here we attempt to write down what might be included in a formal defintion of "Run Until Caught" development.
 
 #### Run Until Caught Development Users
 Run Until Caught Development is more likely to be found in large organizations where processes over time proliferate, increase in complexity, get modified in the direction of the worst case scenario, and expand scope in terms of what should go through them. Why this occurs has been written about extensively elsewhere. No matter the forcing factors, the end result tends to be a high process burden on what can be developed and how it can be developed.
