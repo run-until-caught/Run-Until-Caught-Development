@@ -33,17 +33,21 @@ The 5th concept is all about the "caught" part of "run until caught" development
 - Have a Plan for Being Caught
 
 ## Believable Ignorances
-In large organizations processes proliferate. It can be hard to know what processes exist and what situations don't have a process. They can be documented in highly varied locations. Even if there is a central place for most or some processes to be documented, there might be 3, 4, or 10 processes documented in that central repository that apply to your situation. It can be difficult to know you've understood all the processes that might apply without closely reading hundreds of them. These common situations lead to believable process ignorances.
+In large organizations processes proliferate. It can be hard to know what processes exist and what situations don't have a process. They can be documented in highly varied locations. Even if there is a central place for most or some processes to be documented, there might be 3, 4, or 10 processes documented in that central repository out of 100s of policies that apply to your situation. It can be difficult to know you've understood all the processes that might apply without closely reading hundreds of them. These common situations lead to believable process ignorances.
 
 #### Did Not Know
-<i>Words go here. Really words go here. They also go here.</i>
+There are times where you can honestly say you didn't know a policy. 
+- The policy is written up inside the service you're trying to get access to. 
+- The policy can only be seen by admins and they can't tell who else can not see the policy. 
+- The policy is written a document that has sense moved and so links to it don't work anymore. 
+- The policy was decided verbally in a meeting that did not include you and there is no easily discoverable written record of it. 
+- etc.
 
 #### Did Not Look Very Hard
-<i>Words go here. Really words go here. They also go here.</i>
+There are also situations where you can decide ignorance is better than enlightenment. If the policy is not in an intuitive location or lost in a pile of hundreds of other policies in a central registry, you can decide you have "looked hard enough for now" or "looked a reasonable amount".
 
 #### Partially Known
-<i>Words go here. Really words go here. They also go here.</i>
-
+This is related to the two scenarios above, there are circumstances where it can be a good call to put in a reasonable amount of effort, become partial informed on relevant policies,and then stop under the logic that if there was more policies a reasonable person would assume they would have been in the same place as the other policies. 
 
 ## Creatively Leverage Definitions
 Processes are usually built around definitions for the types of projects, workflows, situations or people that either trigger a process or need to be put through a process. Because you have control over your work, your project, and how it is described, you can influence what processes you have to complete.
@@ -74,7 +78,6 @@ Sometimes deferring a process until another one can be undertaken at the same ti
 ##### Non-Production Working Prototypes
 Often processes are built around worst case scenarios. What's the worst that can happen with real data, real servers, real customers, real liability. Describing or otherwise keeping your project as a 'lab' project, prototype, test, development, experiment, or some other category can be an escape hatch excuses it from burdensome process until a later point in time. This often lets you get through more interations, failures, and learning cycles before that amount of work to earn each improvement also has 'process time' thrown in to the development time & cost arithmetic. Sometimes entire teams can be labled labs, be banned from deploying anything into production, and thereby move faster than anyone else.
 
-
 ## Piggyback on Others
 Piggybacking on established IT systems can be one of the fastest and most effective ways to get through process.
 
@@ -86,16 +89,36 @@ Additionally, if you can join forces with multiple closely related projects and 
 
 ## Have a Plan for Being Caught
 ### Types of Being Caught & Types of Responding to Being Caught
+If you're going to move quickly and creatively within the process landscape, eventually you're going to get "caught". What caught means and how you respond to it, is worth thinking about in order to minimize negative impact to you, your career, the team, the project, your organization, etc.
+
+### Types of Being "Caught"
+We can think about the "caught" in terms of when it occurs and the extent to which being "caught" is a negative thing.
+
+#### Timing
+- early
+- mid development
+- near end of development
+- post project
+- never caught
+
+<i>Words go here. Really words go here. They also go here.</i>
 <i>Words go here. Really words go here. They also go here.</i>
 <i>Words go here. Really words go here. They also go here.</i>
 
-<i>Types of Being "Caught"</i>
+#### Impacts Who
+- you
+- team & others
+- project
+- organization
+
+#### Danger Level
 - never caught
 - friendly caught
 - soft caught
 - hard caught
 - in trouble caught
 
+<i>Words go here. Really words go here. They also go here.</i>
 <i>Words go here. Really words go here. They also go here.</i>
 <i>Words go here. Really words go here. They also go here.</i>
 
