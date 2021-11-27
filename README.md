@@ -28,7 +28,7 @@ The first 4 concepts are part of the "run" part of "run until caught" developmen
 - Creatively Leverage Definitions
 - Defer Process
 - Piggyback Rides
-- 
+
 The 5th concept is all about the "caught" part of "run until caught" development.
 - Have a Plan for Being Caught
 
