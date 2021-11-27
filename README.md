@@ -163,7 +163,7 @@ To anyone who got here from elsewhere. Stars, forks, and retweets are not be def
 Frequently Asked Questions:
 
 - QUESTION: Will you sell certification?
-- ANSWER: The authors of Run Until Caught Development will never sell certifications. We might sell stickers but probably not.
+- ANSWER: Unlike the purveyors of the other development philosophies, the authors of Run Until Caught Development will never sell certifications. We might sell stickers but probably not.
 
 - QUESTION: Who wrote this?
 - ANSWER: The author(s) of Run Until Caught Development might be 3 racoons in a trenchcoat, 12 people at one of those fancy developer resort things with lots of cheese, 3 racoons in a trenchcoat at one of those fancy developer resort things with lots of cheese, or 1 person procrastinating instead of doing work on their other side projects. In all cases, they are remaining anonymous for now.
