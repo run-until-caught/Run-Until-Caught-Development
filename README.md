@@ -157,7 +157,7 @@ To anyone who got here from elsewhere. Stars, forks, and retweets are not necess
 ## FAQ
 Frequently Asked Questions:
 
-- QUESTION: Will you sell certification?
+QUESTION: Will you sell certification?
 - ANSWER: Unlike the purveyors of the other development philosophies, the authors of Run Until Caught Development will never sell certifications. We might sell stickers but probably not.
 
 - QUESTION: Who wrote this?
