@@ -121,34 +121,31 @@ Not being caught can sometimes be a form of technical debt in the sense that the
 Different scenarios should be considered and evaluated in terms of a cost benfit calculation that weights the benfits of the "Run" from the potential negative impacts of being "Caught".
 
 ### How To Respond To Being "Caught"
-<i>Words go here. Really words go here. They also go here.</i>
-<i>Words go here. Really words go here. They also go here.</i>
+There are many possible ways to respond to being "caught". What method makes sense often depends on situation specific details regarding the process you're avoiding, who "catches" you, who else is involved, and your ability and appeatite for later steps. 
 
 ##### Defer to authority
-<i>Words go here. Really words go here. They also go here.</i>
+Sometimes it can be sufficient to say, "We've been working with Vice President Jane Doe on this project". 
 
 ##### Do Not Reply
-<i>Words go here. Really words go here. They also go here.</i>
+Other times it might be someone's responsiblity to inform you that a process exists, but not their job to follow up and make sure you go through it within a certain amount of time after being "caught".  
 
 ##### Stall for time
-<i>Words go here. Really words go here. They also go here.</i>
+Closely related to "do not reply" is "stall for time". It could be stalling for time, so you could start the process in question. It could be stall for time to get management on your side. It could be stall for time to figure out how you could pivot your project to avoid the process in question. 
 
 ##### Capitulate
-<i>Words go here. Really words go here. They also go here.</i>
+Sometimes the wisest course of action is to say "Thank you very much, I'll start that process".
 
 ###### Capitulate & Ask Them For Propper Steps
-<i>Words go here. Really words go here. They also go here.</i>
+Capitulation can sometimes be even more effective if you then involve them in the process. Buying what they're selling terms of their interpretation of the proces can get them on your side for later process interpretations. 
 
-Buy What They're Selling, process-wise
-
-###### Capitulate & Fall Back
-<i>Words go here. Really words go here. They also go here.</i>
+###### Capitulate & Pivot
+Sometimes it doesn't make sense to go through a process. Maybe the process is designed for very critical systems, which yours is not, so you will never get the development time required to actually push through the process. In this case, it might make more sense to look into other places to deploy your system even if it makes some aspects of the project more awkward. Getting caught can require a pivot when process costs are very high and the math doesn't work out.
 
 ###### Capitulate & Abandon Project
-<i>Words go here. Really words go here. They also go here.</i>
+In rare circumstances, there are no opportunities to pivot and the best course of actino is to cut your loses and abandon the project entirely. 
 
 ###### Capitulate & Later Resurrection
-Words go here. Really words go here. They also go here.
+Depending on who caught you, there may be a change to resurrect the project later. This might be the case if the person who "caught" you was later replaced by someone who has a different interpretation of the policy in question. Other times the policy itself changes in some way.
 
 ## Disclaimer
 This was not written with any particular organization in mind. It is not the opion of any organization the author or authors have previously worked for in the past.
