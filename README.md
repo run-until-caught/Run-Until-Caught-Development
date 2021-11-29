@@ -157,7 +157,7 @@ Words go here. Really words go here. They also go here.
 ## Disclaimer
 This was not written with any particular organization in mind. It is not the opion of any organization the author or authors have previously worked for in the past.
 
-To anyone who got here from elsewhere. Stars, forks, and retweets are not be definition necessarily endorsements. It could just be someone found it 'interesting', so definitely go ahead and do those.
+To anyone who got here from elsewhere. Stars, forks, and retweets are not necessarily endorsements. It could just be someone found it 'interesting', so definitely go ahead and do those.
 
 
 -------------
