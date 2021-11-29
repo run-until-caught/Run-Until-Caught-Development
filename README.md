@@ -171,4 +171,8 @@ Frequently Asked Questions:
 - QUESTION: There is no open source license file?
 - ANSWER: That's a statement not a question. In any case, it means you can reference it but not copy it and claim it as your own.
 
+
+- QUESTION: What is the status of this document?
+- ANSWER: It is still being written and probably has lots of typos.
+
    
