@@ -160,19 +160,18 @@ Frequently Asked Questions:
 QUESTION: Will you sell certification?
 - ANSWER: Unlike the purveyors of the other development philosophies, the authors of Run Until Caught Development will never sell certifications. We might sell stickers but probably not.
 
-- QUESTION: Who wrote this?
+QUESTION: Who wrote this?
 - ANSWER: The author(s) of Run Until Caught Development might be 3 racoons in a trenchcoat, 12 people at one of those fancy developer resort things with lots of cheese, 3 racoons in a trenchcoat at one of those fancy developer resort things with lots of cheese, or 1 person procrastinating instead of doing work on their other side projects. In all cases, they are remaining anonymous for now.
 
 
-- QUESTION: Can I contribute to this document?
+QUESTION: Can I contribute to this document?
 - ANSWER: Yes, there will eventually be a "CONTRIBUTING" markdown file with instructions but there is not one yet.
 
-
-- QUESTION: There is no open source license file?
+QUESTION: There is no open source license file?
 - ANSWER: That's a statement not a question. In any case, it means you can reference it but not copy it and claim it as your own.
 
 
-- QUESTION: What is the status of this document?
+QUESTION: What is the status of this document?
 - ANSWER: It is still being written and probably has lots of typos.
 
    
