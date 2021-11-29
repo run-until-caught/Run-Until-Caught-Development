@@ -77,8 +77,8 @@ Deferring process can give you time to fit in a few more iterations that help yo
 Sometimes deferring a process until another one can be undertaken at the same time, or a specific party can be involved, can reduce the total process burden for all parties involed. Perhaps a key approver is only available on the same day but willing to approve two things at once? Aligning multiple processes such that they are tied together can be risky, but it can also increase assurances that meetings are not continuously postoned.
 
 
-##### Non-Production Working Prototypes
-Often processes are built around worst case scenarios. What's the worst that can happen with real data, real servers, real customers, real liability. Describing or otherwise keeping your project as a 'lab' project, prototype, test, development, experiment, or some other category can be an escape hatch excuses it from burdensome process until a later point in time. This often lets you get through more interations, failures, and learning cycles before that amount of work to earn each improvement also has 'process time' thrown in to the development time & cost arithmetic. Sometimes entire teams can be labled labs, be banned from deploying anything into production, and thereby move faster than anyone else.
+#### Non-Production Working Prototypes
+Often processes are built around worst case scenarios. What's the worst that can happen with real data, real servers, real customers, real liability. Describing or otherwise keeping your project as a lab project, prototype, test, development, experiment, or some other category can be an escape hatch that excuses it from burdensome process until a later point in time. This often lets you get through more interations, failures, and learning cycles 'process time' needs to be included in to the development time & cost arithmetic. Sometimes entire teams can be labled labs, be banned from deploying anything into production, and thereby move faster than anyone else.
 
 ## Piggyback Rides
 Piggybacking on established IT systems can be one of the fastest and most effective ways to get through process.
@@ -90,11 +90,11 @@ If you can deploy your project on another IT system that already exists, has gon
 Additionally, if you can join forces with multiple closely related projects and get processes done as a class, it can be a force multiplier with huge cost and time savings.
 
 ## Have a Plan for Being Caught
-### Types of Being Caught & Types of Responding to Being Caught
+#### Types of Being Caught & Types of Responding to Being Caught
 If you're going to move quickly and creatively within the process landscape, eventually you're going to get "caught". What caught means and how you respond to it, is worth thinking about in order to minimize negative impact to you, your career, the team, the project, your organization, etc.
 
 ### Types of Being "Caught"
-We can think about the "caught" in terms of when it occurs and the extent to which being "caught" is a negative thing.
+We can think about the "caught" in terms of a combinaion of when it occurs, who or what is impacted, and the extent to which being "caught" is a dangerous thing.
 
 #### Timing
 - early
@@ -102,10 +102,6 @@ We can think about the "caught" in terms of when it occurs and the extent to whi
 - near end of development
 - post project
 - never caught
-
-<i>Words go here. Really words go here. They also go here.</i>
-<i>Words go here. Really words go here. They also go here.</i>
-<i>Words go here. Really words go here. They also go here.</i>
 
 #### Impacts Who
 - you
@@ -120,9 +116,9 @@ We can think about the "caught" in terms of when it occurs and the extent to whi
 - hard caught
 - in trouble caught
 
-<i>Words go here. Really words go here. They also go here.</i>
-<i>Words go here. Really words go here. They also go here.</i>
-<i>Words go here. Really words go here. They also go here.</i>
+Not being caught can sometimes be a form of technical debt in the sense that there's always the change you'll be forced to take X amount of time to redo some proess step. Getting "caught" towards the end of a project at a more serious danger level can mean project abondonment or an extra X number of months of work. Sometimes getting caught can mean just doing X amount of process work sooner than you had planned.
+
+Different scenarios should be considered and evaluated in terms of a cost benfit calculation that weights the benfits of the "Run" from the potential negative impacts of being "Caught".
 
 ### How To Respond To Being "Caught"
 <i>Words go here. Really words go here. They also go here.</i>
