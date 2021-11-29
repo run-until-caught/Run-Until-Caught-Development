@@ -26,7 +26,7 @@ There are five higher-order concepts within Run Until Caught development.
 The first 4 concepts are part of the "run" part of "run until caught" development.
 - Believable Ignorance
 - Creatively Leverage Definitions
-- Defer Process
+- Defer Until Tomorrow
 - Piggyback Rides
 
 The 5th concept is all about the "caught" part of "run until caught" development.
@@ -69,7 +69,7 @@ Section header above is a poorly executed reference to a Doc Brown quote in <a h
 
 In situations where process you don't want to deal with has lots of words to describe when it should be applied, you can choose to make the case that the rules do not apply. A more appealing way to phrase this might be that the "rules are not yet written" for your particular case. This is likely only the case when the definitions for when the process needs to be applied are written very narrowly in the first place. Sometimes, there can be 4 approved ways to do something for 4 different narrow situations. If you need to do something else that alls outside those 4 defined scenarios, maybe the rules haven't yet been written for your fifth scenario? Maybe you could figure things out for your situation and help suggest a process later for your new situation if asked?
 
-## Defer Process
+## Defer Until Tomorrow
 Guidelines for whether a process needs to be followed sometimes have very clear timelines associated with them. Other times they don't. Careful reading of these details can provide flexibility in when a process is started. Other times there is strict guidelines when a process should be started but not when it needs to be finished by.
 
 Deferring process can give you time to fit in a few more iterations that help you decide whether to push forward or kill the project entirely.
