@@ -163,15 +163,14 @@ QUESTION: Will you sell certification?
 QUESTION: Who wrote this?
 - ANSWER: The author(s) of Run Until Caught Development might be 3 racoons in a trenchcoat, 12 people at one of those fancy developer resort things with lots of cheese, 3 racoons in a trenchcoat at one of those fancy developer resort things with lots of cheese, or 1 person procrastinating instead of doing work on their other side projects. In all cases, they are remaining anonymous for now.
 
+QUESTION: When was this originated?
+- ANSWER: The document was writte in 2021, but the concepts are as old as the large scale social organization of humans. It is unclear if there is a version for ants.
+
+QUESTION: What is the status of this document?
+- ANSWER: It is still being written and probably has lots of typos.
 
 QUESTION: Can I contribute to this document?
 - ANSWER: Yes, there will eventually be a "CONTRIBUTING" markdown file with instructions but there is not one yet.
 
-QUESTION: There is no open source license file?
-- ANSWER: That's a statement not a question. In any case, it means you can reference it but not copy it and claim it as your own.
-
-
-QUESTION: What is the status of this document?
-- ANSWER: It is still being written and probably has lots of typos.
 
    
