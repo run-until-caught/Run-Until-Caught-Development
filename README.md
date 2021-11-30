@@ -55,7 +55,7 @@ Processes are usually built around definitions for the types of projects, workfl
 #### The Jedi Mind Trick
 <i>"This is not the new IT system you're looking for".</i>
 
-The Jedi method is a refence to <a href="https://youtu.be/CnjaUoR15dU">this scene in Star Wars: A New Hope</a> where a Jedi uses a mind trick to convince a guard that "these are not the droids you are looking for.
+The Jedi method is a refence to <a href="https://youtu.be/CnjaUoR15dU">this scene in Star Wars: A New Hope</a> where a Jedi uses a mind trick to convince a guard that "these are not the droids you are looking for".
 
 Sometimes you can avoid a lot of process slowdowns by simply being smart about what label you put on your project. What rules apply are often based on labels. You, to some extend, are often the person who assigns the label that then determines what processes your project project calls under. This isn't always true. Sometimes there isn't a lot of flexibility. However when their is flexibility or when the boundaries between labels get very blury, it can be something to leverage. Maybe your project is eventually going in production but isn't quite there yet? Can you still call it development?
 
