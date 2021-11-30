@@ -55,7 +55,7 @@ Processes are usually built around definitions for the types of projects, workfl
 #### The Jedi Mind Trick
 <i>"This is not the new IT system you're looking for".</i>
 
-The Jedi method is a refence to <a href="https://youtu.be/CnjaUoR15dU">this scene in Star Wars: A New Hope</a>.
+The Jedi method is a refence to <a href="https://youtu.be/CnjaUoR15dU">this scene in Star Wars: A New Hope</a> where a Jedi uses a mind trick to convince a guard that "these are not the droids you are looking for.
 
 Sometimes you can avoid a lot of process slowdowns by simply being smart about what label you put on your project. What rules apply are often based on labels. You, to some extend, are often the person who assigns the label that then determines what processes your project project calls under. This isn't always true. Sometimes there isn't a lot of flexibility. However when their is flexibility or when the boundaries between labels get very blury, it can be something to leverage. Maybe your project is eventually going in production but isn't quite there yet? Can you still call it development?
 
@@ -65,7 +65,7 @@ Closely related to The Jedi Mind Trick is the choose your own adventure method. 
 One example is you might rewrite your code into 200 lines of bash to avoid having to ask for permission to install a specific Python library that lets you do the same task in 2 lines of Python. Sure, it might take 2 hours more to to code, but it could save you 1 month in finding the right people to give you permissions, asking them, waiting for the once a month of quarter meeting on such things, a system administrator install that python library, you not having access to run python code yet on the server, etc. etc. Maybe you finally get those two lines of Python to run 7 weeks later when you could have just rewritten it in bash and got it done that day.
 
 #### "Roads, Where we're going, we don't need roads"
-Section header above is a reference to a Doc Brown quote in <a href="https://m.youtube.com/watch?v=pDX997uKTGg&pp=QAFIAQ%3D%3D">"Back to the Future"</a> movie. It refers to a situation where a situation where a previously assumed requirement, in this case enough road to reach 80 miles per hour is no longer applicable as the car can now fly.
+Section header above is a reference to a Doc Brown quote in the <a href="https://m.youtube.com/watch?v=pDX997uKTGg&pp=QAFIAQ%3D%3D">"Back to the Future"</a> movie. It refers to a situation where a previously assumed requirement is no longer applicable and therefore a process no required. In the movie scene, a previous requirement for there to be enough road to reach 88 miles per hour is no longer applicable as the car can now fly.
 
 In situations where process you don't want to deal with has lots of words to describe when it should be applied, you can choose to make the case that the rules do not apply. A more appealing way to phrase this might be that the "rules are not yet written" for your particular case. This is likely only the case when the definitions for when the process needs to be applied are written very narrowly in the first place. Sometimes, there can be 4 approved ways to do something for 4 different narrow situations. If you need to do something else that alls outside those 4 defined scenarios, maybe the rules haven't yet been written for your fifth scenario? Maybe you could figure things out for your situation and help suggest a process later for your new situation if asked?
 
