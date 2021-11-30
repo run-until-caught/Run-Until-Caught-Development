@@ -164,7 +164,7 @@ QUESTION: Who wrote this?
 - ANSWER: The author(s) of Run Until Caught Development might be 3 racoons in a trenchcoat, 12 people at one of those fancy developer resort things with lots of cheese, 3 racoons in a trenchcoat at one of those fancy developer resort things with lots of cheese, or 1 person procrastinating instead of doing work on their other side projects. In all cases, they are remaining anonymous for now.
 
 QUESTION: When was this originated?
-- ANSWER: The document was writte in 2021, but the concepts are as old as the large scale social organization of humans. It is unclear if there is a version for ants.
+- ANSWER: The document was written in 2021, but the concepts are as old as the large scale social organization of humans. It is unclear if there is a version for ants, but we would like to think so.
 
 QUESTION: What is the status of this document?
 - ANSWER: It is still being written and probably has lots of typos.
