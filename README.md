@@ -1,15 +1,15 @@
 # Run Until Caught Development Manifesto
-```Run Until Caught Development is a set of principles for moving faster than large company process normally would allow through strategic positioning of your work relative to burdensome internal processes.```
+```Run Until Caught Development is a set of principles for moving faster than large company processes normally would allow through strategic positioning of your work relative to burdensome internal processes.```
 
 #### History of the Term
-"Run until caught" is a throw away phrase often used in jest. It is a way to refer to people who want to get things done, or at least further along, than is typical given the process rich environment they work within and are willing and capable of safely bending the rules a little. Here we attempt to write down what might be included in a formal defintion of "Run Until Caught" development.
+"Run until caught" is a throw away phrase often used in jest. It is a way to refer to people who want to get things done, or at least further along, than is typical given the process rich environment they work within and are willing and capable of safely bending the rules a little. Here we attempt to write down what might be included in a formal definition of "Run Until Caught" development.
 
 #### Run Until Caught Development Users
 Run Until Caught Development is more likely to be found in large organizations where processes over time proliferate, increase in complexity, get modified in the direction of the worst case scenario, and expand scope in terms of what should go through them. Why this occurs has been written about extensively elsewhere. No matter the forcing factors, the end result tends to be a high process burden on what can be developed and how it can be developed.
 
 Users of the <i>"Run Until Caught"</i> development methodologies described in this document are often those passionate and motivated to solve problems. They often want to get things done at a faster pace than would occur if every process that might possibly apply was followed as fully as possible and as early as possible in the software development process.
 
-When should you use Run Until Caught Developement? That's up to you, the reader. However, the authors recommend your actions should ideally always be moral, legal, and not get you fired or otherwise in trouble. Run Until Caught isn't about being a hacker or a pirate, not that there is anything wrong with being a hacker or a pirate. It is about smartly navigating the ecosystem of proccesses you find yourself potentially faced with in order to maximize your productivity and impact.
+When should you use Run Until Caught Developement? That's up to you, the reader. However, the authors recommend your actions should ideally always be moral, legal, and not get you fired or otherwise in trouble. Run Until Caught isn't about being a hacker or a pirate, not that there is anything wrong with being a hacker or a pirate. It is about smartly navigating the ecosystem of processes you find yourself potentially faced with in order to maximize your productivity and impact.
 
 ----------------------
 
@@ -39,7 +39,7 @@ In large organizations processes proliferate. It can be hard to know what proces
 There are times where you can honestly say you didn't know a policy. 
 - The policy is written up inside the service you're trying to get access to. 
 - The policy can only be seen by admins and they can't tell who else can not see the policy. 
-- The policy is written a document that has sense moved and so links to it don't work anymore. 
+- The policy is written in a document that has since moved and so links to it don't work anymore. 
 - The policy was decided verbally in a meeting that did not include you and there is no easily discoverable written record of it. 
 - etc.
 
@@ -55,9 +55,9 @@ Processes are usually built around definitions for the types of projects, workfl
 #### The Jedi Mind Trick
 <i>"This is not the new IT system you're looking for".</i>
 
-The Jedi method is a refence to <a href="https://youtu.be/CnjaUoR15dU">this scene in Star Wars: A New Hope</a> where a Jedi uses a mind trick to convince a guard that "these are not the droids you are looking for".
+The Jedi method is a reference to <a href="https://youtu.be/CnjaUoR15dU">this scene in Star Wars: A New Hope</a> where a Jedi uses a mind trick to convince a guard that "these are not the droids you are looking for".
 
-Sometimes you can avoid a lot of process slowdowns by simply being smart about what label you put on your project. What rules apply are often based on labels. You, to some extend, are often the person who assigns the label that then determines what processes your project project calls under. This isn't always true. Sometimes there isn't a lot of flexibility. However when their is flexibility or when the boundaries between labels get very blury, it can be something to leverage. Maybe your project is eventually going in production but isn't quite there yet? Can you still call it development?
+Sometimes you can avoid a lot of process slowdowns by simply being smart about what label you put on your project. What rules apply are often based on labels. You are often the person who assigns the label that then determines what processes your project falls under. This isn't always true. Sometimes there isn't a lot of flexibility. However when their is flexibility or when the boundaries between labels get very blurry, it can be something to leverage. Maybe your project is eventually going in production but isn't quite there yet? Can you still call it development?
 
 #### Choose Your Own Process Adventure
 Closely related to The Jedi Mind Trick is the choose your own adventure method. Similarly, you're making an active choice to avoid the worst processes, but here you actually decide what to build or how to build it specifically to pick your process path.
@@ -67,21 +67,21 @@ One example is you might rewrite your code into 200 lines of bash to avoid havin
 #### "Roads, Where we're going, we don't need roads"
 Section header above is a reference to a Doc Brown quote in the <a href="https://m.youtube.com/watch?v=pDX997uKTGg&pp=QAFIAQ%3D%3D">"Back to the Future"</a> movie. It refers to a situation where a previously assumed requirement is no longer applicable and therefore a process not required to be completed. In the movie scene, a previous requirement for there to be enough road to reach 88 miles per hour is no longer applicable as the car can now fly.
 
-In situations where process you don't want to deal with has lots of words to describe when it should be applied, you can choose to make the case that the rules do not apply. A more appealing way to phrase this might be that the "rules are not yet written" for your particular case. This is likely only the case when the definitions for when the process needs to be applied are written very narrowly in the first place. Sometimes, there can be 4 approved ways to do something for 4 different narrow situations. If you need to do something else that alls outside those 4 defined scenarios, maybe the rules haven't yet been written for your fifth scenario? Maybe you could figure things out for your situation and help suggest a process later for your new situation if asked?
+In situations where the process you don't want to deal with has lots of words to describe when it should be applied, you can choose to make the case that the rules do not apply. A more appealing way to phrase this might be that the "rules are not yet written" for your particular case. This is likely only the case when the definitions for when the process needs to be applied are written very narrowly in the first place. Sometimes, there can be 4 approved ways to do something for 4 different narrow situations. If you need to do something else that falls outside those 4 defined scenarios, maybe the rules haven't yet been written for your fifth scenario? Maybe you could figure things out for your situation and help suggest a process later for your new situation if asked?
 
 ## Defer Until Tomorrow
-Guidelines for whether a process needs to be followed sometimes have very clear timelines associated with them. Other times they don't. Careful reading of these details can provide flexibility in when a process is started. Other times there is strict guidelines when a process should be started but not when it needs to be finished by.
+Guidelines for whether a process needs to be followed sometimes have very clear timelines associated with them. Other times they don't. Careful reading of these details can provide flexibility in when a process is started. Other times there are strict guidelines when a process should be started but not when it needs to be finished by.
 
 Deferring process can give you time to fit in a few more iterations that help you decide whether to push forward or kill the project entirely.
 
-Sometimes deferring a process until another one can be undertaken at the same time, or a specific party can be involved, can reduce the total process burden for all parties involed. Perhaps a key approver is only available on the same day but willing to approve two things at once? Aligning multiple processes such that they are tied together can be risky, but it can also increase assurances that meetings are not continuously postoned.
+Sometimes deferring a process until another one can be undertaken at the same time, or a specific party can be involved, can reduce the total process burden for all parties involved. Perhaps a key approver is only available on the same day but willing to approve two things at once? Aligning multiple processes such that they are tied together can be risky, but it can also increase assurances that meetings are not continuously postponed.
 
 
 #### Non-Production Working Prototypes
-Often processes are built around worst case scenarios. What's the worst that can happen with real data, real servers, real customers, real liability. Describing or otherwise keeping your project as a lab project, prototype, test, development, experiment, or some other category can be an escape hatch that excuses it from burdensome process until a later point in time. This often lets you get through more interations, failures, and learning cycles 'process time' needs to be included in to the development time & cost arithmetic. Sometimes entire teams can be labled labs, be banned from deploying anything into production, and thereby move faster than anyone else.
+Often processes are built around worst case scenarios. What's the worst that can happen with real data, real servers, real customers, real liability. Describing or otherwise keeping your project as a lab project, prototype, test, development, experiment, or some other category can be an escape hatch that excuses it from burdensome processes until a later point in time. This often lets you get through more iterations, failures, and learning cycles 'process time' needs to be included in the development time & cost arithmetic. Sometimes entire teams can be labeled labs, be banned from deploying anything into production, and thereby move faster than anyone else.
 
 ## Piggyback Rides
-Piggybacking on established IT systems can be one of the fastest and most effective ways to get through process.
+Piggybacking on established IT systems can be one of the fastest and most effective ways to get through burdensome processes.
 
 ##### Existing IT Systems
 If you can deploy your project on another IT system that already exists, has gone through months of process, and has a clear authority to operate, it could be a huge process savings.
@@ -94,7 +94,7 @@ Additionally, if you can join forces with multiple closely related projects and 
 If you're going to move quickly and creatively within the process landscape, eventually you're going to get "caught". What caught means and how you respond to it, is worth thinking about in order to minimize negative impact to you, your career, the team, the project, your organization, etc.
 
 ### Types of Being "Caught"
-We can think about the "caught" in terms of a combinaion of when it occurs, who or what is impacted, and the extent to which being "caught" is a dangerous thing.
+We can think about the "caught" in terms of a combination of when it occurs, who or what is impacted, and the extent to which being "caught" is a dangerous thing.
 
 #### Timing
 - early
@@ -116,39 +116,39 @@ We can think about the "caught" in terms of a combinaion of when it occurs, who 
 - hard caught
 - in trouble caught
 
-Not being caught can sometimes be a form of technical debt in the sense that there's always the change you'll be forced to take X amount of time to redo some proess step. Getting "caught" towards the end of a project at a more serious danger level can mean project abondonment or an extra X number of months of work. Sometimes getting caught can mean just doing X amount of process work sooner than you had planned.
+Not being caught can sometimes be a form of technical debt in the sense that there's always the chance you'll be forced to take X amount of time to redo some process step. Getting "caught" towards the end of a project at a more serious danger level can mean project abandonment or an extra X number of months of work. Sometimes getting caught can mean just doing X amount of process work sooner than you had planned.
 
-Different scenarios should be considered and evaluated in terms of a cost benfit calculation that weights the benfits of the "Run" from the potential negative impacts of being "Caught".
+Different scenarios should be considered and evaluated in terms of a cost benefit calculation that weighs the benefits of the "Run" from the potential negative impacts of being "Caught".
 
 ### How To Respond To Being "Caught"
-There are many possible ways to respond to being "caught". What method makes sense often depends on situation specific details regarding the process you're avoiding, who "catches" you, who else is involved, and your ability and appeatite for later steps. 
+There are many possible ways to respond to being "caught". What method makes sense often depends on situation specific details regarding the process you're avoiding, who "catches" you, who else is involved, and your ability and appetite for later steps. 
 
 ##### Defer to authority
 Sometimes it can be sufficient to say, "We've been working with Vice President Jane Doe on this project". 
 
 ##### Do Not Reply
-Other times it might be someone's responsiblity to inform you that a process exists, but not their job to follow up and make sure you go through it within a certain amount of time after being "caught".  
+Other times it might be someone's responsibility to inform you that a process exists, but not their job to follow up and make sure you go through it within a certain amount of time after being "caught".  
 
 ##### Stall for time
-Closely related to "do not reply" is "stall for time". It could be stalling for time, so you could start the process in question. It could be stall for time to get management on your side. It could be stall for time to figure out how you could pivot your project to avoid the process in question. 
+Closely related to "do not reply" is "stall for time". It could be stalling for time, so you could start the process in question. It could be stalling for time to get management on your side. It could be stalling for time to figure out how you could pivot your project to avoid the process in question. 
 
 ##### Capitulate
 Sometimes the wisest course of action is to say "Thank you very much, I'll start that process".
 
-###### Capitulate & Ask Them For Propper Steps
-Capitulation can sometimes be even more effective if you then involve them in the process. Buying what they're selling terms of their interpretation of the proces can get them on your side for later process interpretations. 
+###### Capitulate & Ask Them For Proper Steps
+Capitulation can sometimes be even more effective if you then involve them in the process. Buying what they're selling terms of their interpretation of the process can get them on your side for later process interpretations. 
 
 ###### Capitulate & Pivot
 Sometimes it doesn't make sense to go through a process. Maybe the process is designed for very critical systems, which yours is not, so you will never get the development time required to actually push through the process. In this case, it might make more sense to look into other places to deploy your system even if it makes some aspects of the project more awkward. Getting caught can require a pivot when process costs are very high and the math doesn't work out.
 
 ###### Capitulate & Abandon Project
-In rare circumstances, there are no opportunities to pivot and the best course of actino is to cut your loses and abandon the project entirely. 
+In rare circumstances, there are no opportunities to pivot and the best course of action is to cut your losses and abandon the project entirely. 
 
 ###### Capitulate & Later Resurrection
 Depending on who caught you, there may be a change to resurrect the project later. This might be the case if the person who "caught" you was later replaced by someone who has a different interpretation of the policy in question. Other times the policy itself changes in some way.
 
 ## Disclaimer
-This was not written with any particular organization in mind. It is not the opion of any organization the author or authors have previously worked for in the past.
+This was not written with any particular organization in mind. It is not the opinion of any organization the author or authors have previously worked for in the past.
 
 To anyone who got here from elsewhere. Stars, forks, and retweets are not necessarily endorsements. It could just be someone found it 'interesting', so definitely go ahead and do those.
 
@@ -163,7 +163,7 @@ QUESTION: Will you sell certification?
 QUESTION: Who wrote this?
 - ANSWER: The author(s) of Run Until Caught Development might be 3 racoons in a trenchcoat, 12 people at one of those fancy developer resort things with lots of cheese, 3 racoons in a trenchcoat at one of those fancy developer resort things with lots of cheese, or 1 person procrastinating instead of doing work on their other side projects. In all cases, they are remaining anonymous for now.
 
-QUESTION: When was this originated?
+QUESTION: When was this created?
 - ANSWER: The document was written in 2021, but the concepts are as old as the large scale social organization of humans. It is unclear if there is a version for ants, but we would like to think so.
 
 QUESTION: What is the status of this document?
