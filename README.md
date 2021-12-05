@@ -7,7 +7,7 @@
 #### Users of Run Until Caught Development Methodologies
 Run Until Caught Development is more likely to be found in large organizations where processes over time proliferate, increase in complexity, get modified in the direction of the worst case scenario, and expand scope in terms of what should go through them. Why this occurs has been written about extensively elsewhere. No matter the forcing factors, the end result tends to be a high process burden on what can be developed and how it can be developed.
 
-Users of the <i>"Run Until Caught"</i> development methodologies described in this document are often those passionate and motivated to solve problems. They often want to get things done at a faster pace than would occur if every process that might possibly apply was followed as fully as possible and as early as possible in the software development process.
+Users of the <i>"Run Until Caught"</i> development methodologies described in this document are often those passionate and motivated to solve problems. They often want to get things done at a faster pace than would occur if <i>every process that might possibly apply</i> was followed <i>as fully as possible</i> and <i>as early as possible</i> in the software development process.
 
 When should you use Run Until Caught Developement? That's up to you, the reader. However, the authors recommend your actions should ideally always be moral, legal, and not get you fired or otherwise in trouble. Run Until Caught isn't about being a hacker or a pirate, not that there is anything wrong with being a hacker or a pirate. It is about smartly navigating the ecosystem of processes you find yourself potentially faced with in order to maximize your productivity and impact.
 
