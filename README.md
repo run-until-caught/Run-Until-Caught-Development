@@ -21,7 +21,7 @@ Like these other methods of development, 'Run Under Caught' is based on a series
 ----------------------
 
 ## Principles of 'Run Until Caught'
-There are five higher-order concepts within Run Until Caught development. 
+There are six higher-order concepts within Run Until Caught development. 
 
 The first 4 concepts are part of the "run" part of "run until caught" development.
 - Believable Ignorance
@@ -29,8 +29,9 @@ The first 4 concepts are part of the "run" part of "run until caught" developmen
 - Defer Until Tomorrow
 - Piggyback Rides
 
-The 5th concept is all about the "caught" part of "run until caught" development.
-- Have a Plan for Being Caught
+The last two concepts are all about the "caught" part of "run until caught" development.
+- Costs of being "caught"
+- How to Respond to being 'caught'
 
 ## Believable Ignorances
 In large organizations processes proliferate. It can be hard to know what processes exist and what situations don't have a process. They can be documented in highly varied locations. Even if there is a central place for most or some processes to be documented, there might be 3, 4, or 10 processes documented in that central repository out of 100s of policies that apply to your situation. It can be difficult to know you've understood all the processes that might apply without closely reading hundreds of them. These common situations lead to believable process ignorances.
@@ -93,7 +94,7 @@ Additionally, if you can join forces with multiple closely related projects and 
 #### Types of Being Caught & Types of Responding to Being Caught
 If you're going to move quickly and creatively within the process landscape, eventually you're going to get "caught". What caught means and how you respond to it, is worth thinking about in order to minimize negative impact to you, your career, the team, the project, your organization, etc.
 
-### Types of Being "Caught"
+### Understanding the Cost of Being "Caught"
 We can think about the "caught" in terms of a combination of when it occurs, who or what is impacted, and the extent to which being "caught" is a dangerous thing.
 
 #### Timing
@@ -120,7 +121,7 @@ Not being caught can sometimes be a form of technical debt in the sense that the
 
 Different scenarios should be considered and evaluated in terms of a cost benefit calculation that weighs the benefits of the "Run" from the potential negative impacts of being "Caught".
 
-### How To Respond To Being "Caught"
+### Responding to Being "Caught"
 There are many possible ways to respond to being "caught". What method makes sense often depends on situation specific details regarding the process you're avoiding, who "catches" you, who else is involved, and your ability and appetite for later steps. 
 
 ##### Defer to authority
