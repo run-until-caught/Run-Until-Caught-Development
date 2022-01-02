@@ -159,7 +159,7 @@ To anyone who got here from elsewhere. Stars, forks, and retweets are not necess
 Frequently Asked Questions:
 
 QUESTION: Will you sell certification?
-- ANSWER: Unlike the purveyors of the other development philosophies, the authors of Run Until Caught Development will never sell certifications. We might sell stickers but probably not.
+- ANSWER: The authors of Run Until Caught Development will never sell certifications. We might sell stickers and refridgerator magnets.
 
 QUESTION: Who wrote this?
 - ANSWER: The author(s) of Run Until Caught Development might be 3 racoons in a trenchcoat, 12 people at one of those fancy developer resort things with lots of cheese, 3 racoons in a trenchcoat at one of those fancy developer resort things with lots of cheese, or 1 person procrastinating instead of doing work on their other side projects. In all cases, they are remaining anonymous for now.
@@ -171,7 +171,7 @@ QUESTION: What is the status of this document?
 - ANSWER: It is still being written and probably has lots of typos.
 
 QUESTION: Can I contribute to this document?
-- ANSWER: Yes, there will eventually be a "CONTRIBUTING" markdown file with instructions but there is not one yet.
+- ANSWER: Yes, there will eventually be a "CONTRIBUTING" markdown file with instructions but there is not one yet. We're especially interested in more cultural references and puns. They'll decrease overall clarity, but we've decided that we like puns more. Sorry.
 
 
    
