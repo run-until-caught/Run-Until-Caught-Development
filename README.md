@@ -30,7 +30,7 @@ The first 4 concepts are part of the "run" part of "run until caught" developmen
 - Piggyback Rides
 
 The last two concepts are all about the "caught" part of "run until caught" development.
-- Costs of being "caught"
+- Cost Accounting (no not that one)
 - How to Respond to being 'caught'
 
 ## Believable Ignorances
@@ -94,7 +94,7 @@ Additionally, if you can join forces with multiple closely related projects and 
 #### Types of Being Caught & Types of Responding to Being Caught
 If you're going to move quickly and creatively within the process landscape, eventually you're going to get "caught". What caught means and how you respond to it, is worth thinking about in order to minimize negative impact to you, your career, the team, the project, your organization, etc.
 
-### Understanding the Cost of Being "Caught"
+### Being "Caught" Cost Accounting
 We can think about the "caught" in terms of a combination of when it occurs, who or what is impacted, and the extent to which being "caught" is a dangerous thing.
 
 #### Timing
