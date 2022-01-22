@@ -173,5 +173,7 @@ QUESTION: What is the status of this document?
 QUESTION: Can I contribute to this document?
 - ANSWER: Yes, there will eventually be a "CONTRIBUTING" markdown file with instructions but there is not one yet. We're especially interested in more cultural references and puns. They'll decrease overall clarity, but we've decided that we like puns more. Sorry.
 
+QUESTION: How can I share the wonder that is Run-Until-Caught development with others?
+- ANSWER: This is up to you. Twitter, email, and a carboard sign in the town square are all possibilities. You can also clap, follow, or otherwise share the <a href="https://medium.com/@schmitt_harrison/run-until-caught-development-manifesto-a3233684213a">Medium article</a> that has similiar content.
 
    
